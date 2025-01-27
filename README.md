@@ -3,7 +3,7 @@
 ### **Full-Stack Developer**
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=26&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=500&lines=Transforming+Coffee+%E2%98%95%EF%B8%8F+Into+Code+%F0%9F%92%BB;Building+Tomorrow's+Digital+Landscapes+%F0%9F%8C%8E;Kabarak+University+Scholar+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%A4%96" alt="Dynamic Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Mono&weight=600&size=26&duration=4000&pause=1000&color=FFD700&center=true&vCenter=true&width=650&lines=Transforming+Coffee+%E2%98%95%EF%B8%8F+Into+Code+%F0%9F%92%BB;Building+Tomorrow's+Digital+Landscapes+%F0%9F%8C%8E;Kabarak+University+Scholar+%F0%9F%8E%93;Open+Source+Enthusiast+%F0%9F%A4%96" alt="Dynamic Header" />
 </p>
 
 ---
