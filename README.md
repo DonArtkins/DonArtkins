@@ -37,17 +37,15 @@
 <!-- ANIMATED SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" width="100%" />
+</div>
+
 <!-- ABOUT ME SECTION -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
   About Me
 </h2>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/DonArtkins/DonArtkins/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/DonArtkins/DonArtkins/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/DonArtkins/DonArtkins/output/github-contribution-grid-snake.svg">
-</picture>
 
 ```javascript
 const donArtkins = {
@@ -266,22 +264,6 @@ const donArtkins = {
 </h2>
 
 [![DonArtkins's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=DonArtkins&custom_title=Don%20Artkins's%20GitHub%20Activity%20Graph&bg_color=0D1117&color=A77BCA&line=916BBF&point=FFFFFF&area=true&area_color=A77BCA&hide_border=true)](https://github.com/DonArtkins)
-
-<!-- ANIMATED SEPARATOR -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
-<!-- LATEST BLOG POSTS SECTION -->
-<h2 align="center">
-  <img src="https://media.giphy.com/media/feQRYLoruyjguhLjK1/giphy.gif" width="32px">
-  Latest Blog Posts
-</h2>
-
-<!-- BLOG-POST-LIST:START -->
-<!-- This section will be automatically updated by GitHub Actions -->
-<!-- BLOG-POST-LIST:END -->
-<div align="center">
-  <i>Stay tuned! Blog posts coming soon...</i>
-</div>
 
 <!-- ANIMATED SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
