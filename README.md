@@ -1,10 +1,10 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=230&section=header&text=Don%20Artkins&fontAlignY=35&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Full-Stack%20Developer%20|%20Digital%20Architect&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=230&section=header&text=Don%20Artkins&fontAlignY=35&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Web%20Developer%20|%20Android%20Developer&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
 
   <!-- TYPING SVG EFFECT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%26+Next.js+Developer;Python+Django+Expert;AWS+Cloud+Architect;Open+Source+Enthusiast;UI%2FUX+Design+Lover" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%26+Next.js+Developer;Vue+%26+Nuxt.js+Developer;Flutter+Android+Developer;Full+Stack+Web+Developer;MongoDB+%26+Firebase+Expert;SEO+Enthusiast" alt="Typing SVG" />
   </a>
 
   <!-- PROFILE VIEWS & GITHUB METRICS -->
@@ -28,7 +28,7 @@
     <a href="https://wa.me/254714230692">
       <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
     </a>
-    <a href="https://calendly.com/donartkins" target="_blank">
+    <a href="https://calendly.com/opiyodon9" target="_blank">
       <img src="https://img.shields.io/badge/Calendly-0052CC?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
     </a>
   </div>
@@ -55,11 +55,11 @@
     </tr>
     <tr>
       <td><b>💼 Role</b></td>
-      <td>Full-Stack Developer</td>
+      <td>Full-Stack Developer (Web & Android)</td>
     </tr>
     <tr>
       <td><b>🔭 Currently Learning</b></td>
-      <td>Web3, Microservices Architecture, Advanced Cloud Solutions</td>
+      <td>Advanced Vue.js, Nuxt.js, Flutter Architecture</td>
     </tr>
     <tr>
       <td><b>⚡ Fun Fact</b></td>
@@ -72,44 +72,6 @@
   </table>
 </div>
 
-<details>
-  <summary><h3>🧰 My Tech Arsenal</h3></summary>
-  <div align="center">
-    <table>
-      <tr>
-        <td valign="top">
-          <h4>💻 Frontend</h4>
-          <p>
-            <b>JavaScript:</b> React, Next.js, Vue.js, Redux, Zustand<br>
-            <b>CSS:</b> Tailwind CSS, Bootstrap, SASS, Styled Components
-          </p>
-        </td>
-        <td valign="top">
-          <h4>⚙️ Backend</h4>
-          <p>
-            <b>JavaScript:</b> Node.js, Express, NestJS<br>
-            <b>Python:</b> Flask, Django, FastAPI<br>
-            <b>Databases:</b> MongoDB, PostgreSQL, MySQL, Firebase, Supabase
-          </p>
-        </td>
-      </tr>
-      <tr>
-        <td valign="top">
-          <h4>🚀 DevOps</h4>
-          <p>AWS, Digital Ocean, Docker, Kubernetes, CI/CD, GitHub Actions</p>
-        </td>
-        <td valign="top">
-          <h4>📱 Mobile & Tools</h4>
-          <p>
-            <b>Mobile:</b> React Native, Flutter<br>
-            <b>Tools:</b> Git, Webpack, Babel, Vite, GraphQL, REST APIs
-          </p>
-        </td>
-      </tr>
-    </table>
-  </div>
-</details>
-
 <!-- SKILL BADGES SECTION -->
 <h2 align="center">
   <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32px"> 
@@ -120,10 +82,10 @@
   <h3>Programming Languages</h3>
   <p>
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="JavaScript">
-    <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?style=for-the-badge&logo=TypeScript&logoColor=white" alt="TypeScript">
-    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
     <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=CSS3&logoColor=white" alt="CSS3">
+    <img src="https://img.shields.io/badge/Python-3776AB.svg?style=for-the-badge&logo=Python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/Dart-0175C2.svg?style=for-the-badge&logo=Dart&logoColor=white" alt="Dart">
   </p>
   
   <h3>Frontend Development</h3>
@@ -131,40 +93,46 @@
     <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="React">
     <img src="https://img.shields.io/badge/Next.js-000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D.svg?style=for-the-badge&logo=vuedotjs&logoColor=white" alt="Vue.js">
-    <img src="https://img.shields.io/badge/Redux-764ABC.svg?style=for-the-badge&logo=Redux&logoColor=white" alt="Redux">
+    <img src="https://img.shields.io/badge/Nuxt.js-00DC82.svg?style=for-the-badge&logo=nuxtdotjs&logoColor=white" alt="Nuxt.js">
     <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4.svg?style=for-the-badge&logo=Tailwind-CSS&logoColor=white" alt="Tailwind CSS">
-    <img src="https://img.shields.io/badge/Sass-CC6699.svg?style=for-the-badge&logo=Sass&logoColor=white" alt="Sass">
     <img src="https://img.shields.io/badge/Bootstrap-7952B3.svg?style=for-the-badge&logo=Bootstrap&logoColor=white" alt="Bootstrap">
   </p>
   
   <h3>Backend Development</h3>
   <p>
     <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
-    <img src="https://img.shields.io/badge/Express-000000.svg?style=for-the-badge&logo=Express&logoColor=white" alt="Express">
-    <img src="https://img.shields.io/badge/Django-092E20.svg?style=for-the-badge&logo=Django&logoColor=white" alt="Django">
     <img src="https://img.shields.io/badge/Flask-000000.svg?style=for-the-badge&logo=Flask&logoColor=white" alt="Flask">
-    <img src="https://img.shields.io/badge/FastAPI-009688.svg?style=for-the-badge&logo=FastAPI&logoColor=white" alt="FastAPI">
+    <img src="https://img.shields.io/badge/REST_API-FF6C37.svg?style=for-the-badge&logo=Postman&logoColor=white" alt="REST API">
   </p>
   
-  <h3>Databases & Cloud</h3>
+  <h3>Databases & Storage</h3>
   <p>
     <img src="https://img.shields.io/badge/MongoDB-47A248.svg?style=for-the-badge&logo=MongoDB&logoColor=white" alt="MongoDB">
     <img src="https://img.shields.io/badge/PostgreSQL-4169E1.svg?style=for-the-badge&logo=PostgreSQL&logoColor=white" alt="PostgreSQL">
-    <img src="https://img.shields.io/badge/MySQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="MySQL">
+    <img src="https://img.shields.io/badge/SQL-4479A1.svg?style=for-the-badge&logo=MySQL&logoColor=white" alt="SQL">
     <img src="https://img.shields.io/badge/Firebase-FFCA28.svg?style=for-the-badge&logo=Firebase&logoColor=black" alt="Firebase">
-    <img src="https://img.shields.io/badge/Supabase-3ECF8E.svg?style=for-the-badge&logo=Supabase&logoColor=white" alt="Supabase">
-    <img src="https://img.shields.io/badge/Amazon%20AWS-232F3E.svg?style=for-the-badge&logo=Amazon-AWS&logoColor=white" alt="AWS">
-    <img src="https://img.shields.io/badge/DigitalOcean-0080FF.svg?style=for-the-badge&logo=DigitalOcean&logoColor=white" alt="DigitalOcean">
+    <img src="https://img.shields.io/badge/Cloudinary-3448C5.svg?style=for-the-badge&logo=Cloudinary&logoColor=white" alt="Cloudinary">
   </p>
   
-  <h3>DevOps & Tools</h3>
+  <h3>Mobile Development</h3>
   <p>
-    <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=Docker&logoColor=white" alt="Docker">
-    <img src="https://img.shields.io/badge/Kubernetes-326CE5.svg?style=for-the-badge&logo=Kubernetes&logoColor=white" alt="Kubernetes">
+    <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
+    <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
+  </p>
+  
+  <h3>Deployment & Hosting</h3>
+  <p>
+    <img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white" alt="Vercel">
+    <img src="https://img.shields.io/badge/Railway-0B0D0E.svg?style=for-the-badge&logo=Railway&logoColor=white" alt="Railway">
+    <img src="https://img.shields.io/badge/Render-46E3B7.svg?style=for-the-badge&logo=Render&logoColor=white" alt="Render">
+  </p>
+  
+  <h3>Other Skills</h3>
+  <p>
+    <img src="https://img.shields.io/badge/SEO-47A248.svg?style=for-the-badge&logo=Google&logoColor=white" alt="SEO">
     <img src="https://img.shields.io/badge/Git-F05032.svg?style=for-the-badge&logo=Git&logoColor=white" alt="Git">
-    <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF.svg?style=for-the-badge&logo=GitHub-Actions&logoColor=white" alt="GitHub Actions">
-    <img src="https://img.shields.io/badge/Webpack-8DD6F9.svg?style=for-the-badge&logo=Webpack&logoColor=black" alt="Webpack">
-    <img src="https://img.shields.io/badge/Vite-646CFF.svg?style=for-the-badge&logo=Vite&logoColor=white" alt="Vite">
+    <img src="https://img.shields.io/badge/Responsive_Design-5C2D91.svg?style=for-the-badge&logo=css3&logoColor=white" alt="Responsive Design">
+    <img src="https://img.shields.io/badge/Github-F05032.svg?style=for-the-badge&logo=Github&logoColor=white" alt="Github">
   </p>
 </div>
 
@@ -263,7 +231,7 @@
   <a href="https://wa.me/254714230692">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://calendly.com/donartkins" target="_blank">
+  <a href="https://calendly.com/opiyodon9" target="_blank">
     <img src="https://img.shields.io/badge/Calendly-0052CC?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
   </a>
 </div>
