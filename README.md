@@ -47,30 +47,68 @@
   About Me
 </h2>
 
-```javascript
-const donArtkins = {
-  location: "Kenya 🇰🇪",
-  role: "Full-Stack Developer",
-  code: ["JavaScript", "TypeScript", "Python", "HTML", "CSS"],
-  technologies: {
-    frontEnd: {
-      js: ["React", "Next.js", "Vue.js", "Redux", "Zustand"],
-      css: ["Tailwind CSS", "Bootstrap", "SASS", "Styled Components"],
-    },
-    backEnd: {
-      js: ["Node.js", "Express", "NestJS"],
-      python: ["Flask", "Django", "FastAPI"],
-      databases: ["MongoDB", "PostgreSQL", "MySQL", "Firebase", "Supabase"]
-    },
-    devOps: ["AWS", "Digital Ocean", "Docker", "Kubernetes", "CI/CD", "GitHub Actions"],
-    mobile: ["React Native", "Flutter"],
-    tools: ["Git", "Webpack", "Babel", "Vite", "GraphQL", "REST APIs"]
-  },
-  currentlyLearning: ["Web3", "Microservices Architecture", "Advanced Cloud Solutions"],
-  funFact: "I can solve a Rubik's cube in under 2 minutes! ⚡",
-  lifePhilosophy: "Code is like humor. When you have to explain it, it's bad. 💭"
-};
-```
+<div align="center">
+  <table>
+    <tr>
+      <td><b>🌍 Location</b></td>
+      <td>Kenya 🇰🇪</td>
+    </tr>
+    <tr>
+      <td><b>💼 Role</b></td>
+      <td>Full-Stack Developer</td>
+    </tr>
+    <tr>
+      <td><b>🔭 Currently Learning</b></td>
+      <td>Web3, Microservices Architecture, Advanced Cloud Solutions</td>
+    </tr>
+    <tr>
+      <td><b>⚡ Fun Fact</b></td>
+      <td>I can solve a Rubik's cube in under 2 minutes!</td>
+    </tr>
+    <tr>
+      <td><b>💭 Life Philosophy</b></td>
+      <td><i>"Code is like humor. When you have to explain it, it's bad."</i></td>
+    </tr>
+  </table>
+</div>
+
+<details>
+  <summary><h3>🧰 My Tech Arsenal</h3></summary>
+  <div align="center">
+    <table>
+      <tr>
+        <td valign="top">
+          <h4>💻 Frontend</h4>
+          <p>
+            <b>JavaScript:</b> React, Next.js, Vue.js, Redux, Zustand<br>
+            <b>CSS:</b> Tailwind CSS, Bootstrap, SASS, Styled Components
+          </p>
+        </td>
+        <td valign="top">
+          <h4>⚙️ Backend</h4>
+          <p>
+            <b>JavaScript:</b> Node.js, Express, NestJS<br>
+            <b>Python:</b> Flask, Django, FastAPI<br>
+            <b>Databases:</b> MongoDB, PostgreSQL, MySQL, Firebase, Supabase
+          </p>
+        </td>
+      </tr>
+      <tr>
+        <td valign="top">
+          <h4>🚀 DevOps</h4>
+          <p>AWS, Digital Ocean, Docker, Kubernetes, CI/CD, GitHub Actions</p>
+        </td>
+        <td valign="top">
+          <h4>📱 Mobile & Tools</h4>
+          <p>
+            <b>Mobile:</b> React Native, Flutter<br>
+            <b>Tools:</b> Git, Webpack, Babel, Vite, GraphQL, REST APIs
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+</details>
 
 <!-- SKILL BADGES SECTION -->
 <h2 align="center">
@@ -162,96 +200,35 @@ const donArtkins = {
 
 <!-- ANIMATED SEPARATOR -->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-
 <!-- FEATURED PROJECTS SECTION -->
 <h2 align="center">
-  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32px"> 
-  Featured Projects
+  <img src="https://media.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif" width="32px"> Featured Projects
 </h2>
 
-<!-- DYNAMIC PINNED REPOS -->
-<div align="center" id="featured-repos">
-  <!-- This section will be dynamically populated using JavaScript -->
-  <div class="repo-cards">Loading projects...</div>
+<!-- STATIC PINNED REPOS - Replace with your actual repositories -->
+<div align="center">
+  <a href="https://github.com/DonArtkins/SycX">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonArtkins&repo=SycX&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/DonArtkins/SycX-API">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonArtkins&repo=SycX-API&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/DonArtkins/flaskify">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonArtkins&repo=flaskify&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/DonArtkins/trikl3">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonArtkins&repo=trikl3&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <a href="https://github.com/DonArtkins/synctours">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonArtkins&repo=synctours&theme=radical&hide_border=true&bg_color=0D1117" />
+  </a>
+  <!-- Add more repositories as needed -->
   
   <h3>
     <a href="https://github.com/DonArtkins?tab=repositories" target="_blank">
-      👉 View All Repositories 
+      👉 View All Repositories
     </a>
   </h3>
-</div>
-
-<!-- Include the script tag with JavaScript to dynamically load your repositories -->
-<script type="text/javascript">
-  // This script will be executed when someone visits your GitHub profile
-  fetch('https://api.github.com/users/DonArtkins/repos?sort=updated&per_page=6')
-    .then(response => response.json())
-    .then(data => {
-      const repoContainer = document.querySelector('.repo-cards');
-      
-      // Clear loading text
-      repoContainer.innerHTML = '';
-      
-      // Create HTML for each repository
-      data.forEach(repo => {
-        if (!repo.fork) {  // Only show non-forked repos
-          const card = document.createElement('div');
-          card.classList.add('repo-card');
-          
-          const langColor = {
-            JavaScript: '#f1e05a',
-            TypeScript: '#3178c6',
-            Python: '#3572A5',
-            HTML: '#e34c26',
-            CSS: '#563d7c',
-            Vue: '#41b883',
-            React: '#61dafb'
-          };
-          
-          const primaryLang = repo.language || 'JavaScript';
-          const color = langColor[primaryLang] || '#8A2BE2';
-          
-          card.innerHTML = `
-            <a href="${repo.html_url}" target="_blank" style="text-decoration:none;">
-              <div style="border:1px solid #30363d; border-radius:6px; padding:16px; margin:8px; background:#0d1117;">
-                <h3 style="color:#58a6ff;">${repo.name}</h3>
-                <p style="color:#8b949e;">${repo.description || 'No description available'}</p>
-                <div style="display:flex; align-items:center; margin-top:8px;">
-                  <span style="display:inline-block; width:12px; height:12px; border-radius:50%; background-color:${color};"></span>
-                  <span style="margin-left:5px; color:#8b949e;">${primaryLang}</span>
-                  <span style="margin-left:16px;">⭐ ${repo.stargazers_count}</span>
-                  <span style="margin-left:16px;">🍴 ${repo.forks_count}</span>
-                </div>
-              </div>
-            </a>
-          `;
-          
-          repoContainer.appendChild(card);
-        }
-      });
-      
-      // If no non-forked repos were found
-      if (repoContainer.children.length === 0) {
-        repoContainer.innerHTML = '<p>No repositories to display</p>';
-      }
-    })
-    .catch(error => {
-      console.error('Error fetching repositories:', error);
-      document.querySelector('.repo-cards').innerHTML = 'Failed to load repositories. Please check directly on my GitHub profile.';
-    });
-</script>
-
-<!-- Since GitHub doesn't allow JavaScript execution, we'll include a static fallback with GitHub README stats -->
-<div align="center">
-  <a href="https://github.com/DonArtkins?tab=repositories">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonArtkins&repo=DonArtkins&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
-  <!-- Add links to your top repositories -->
-  <!-- These will be shown if JavaScript doesn't work -->
-  <!-- Replace 'repo-name' with actual repository names -->
-  <a href="https://github.com/DonArtkins/repo-name-1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DonArtkins&repo=repo-name-1&theme=radical&hide_border=true&bg_color=0D1117" />
-  </a>
 </div>
 
 <!-- ANIMATED SEPARATOR -->
@@ -286,7 +263,7 @@ const donArtkins = {
   <a href="https://wa.me/254714230692">
     <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp">
   </a>
-  <a href="https://calendly.com/opiyodon9" target="_blank">
+  <a href="https://calendly.com/donartkins" target="_blank">
     <img src="https://img.shields.io/badge/Calendly-0052CC?style=for-the-badge&logo=calendly&logoColor=white" alt="Calendly" />
   </a>
 </div>
