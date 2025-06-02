@@ -1,6 +1,6 @@
 <!-- HEADER SECTION -->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=230&section=header&text=Don%20Artkins&fontAlignY=35&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Web%20Developer%20|%20Android%20Developer&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8A2BE2,100:FF69B4&height=230&section=header&text=Don%20Artkins&fontAlignY=35&fontSize=70&fontColor=ffffff&animation=fadeIn&desc=Web%20Developer%20|%20Mobile%20Developer&descAlignY=55&descSize=18" alt="Header Banner" width="100%" />
 
   <!-- TYPING SVG EFFECT -->
   <a href="https://git.io/typing-svg">
