@@ -4,7 +4,7 @@
 
   <!-- TYPING SVG EFFECT -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%26+Next.js+Developer;Vue+%26+Nuxt.js+Developer;Flutter+Android+Developer;Full+Stack+Web+Developer;MongoDB+%26+Firebase+Expert;SEO+Enthusiast" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=61DAFB&center=true&vCenter=true&width=500&lines=React+%26+Next.js+Developer;Vue+%26+Nuxt.js+Developer;Flutter+Developer;Full+Stack+Web+Developer;MongoDB+%26+Firebase+Expert;SEO+Enthusiast" alt="Typing SVG" />
   </a>
 
   <!-- PROFILE VIEWS & GITHUB METRICS -->
@@ -118,6 +118,7 @@
   <p>
     <img src="https://img.shields.io/badge/Flutter-02569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="Flutter">
     <img src="https://img.shields.io/badge/Android-3DDC84.svg?style=for-the-badge&logo=Android&logoColor=white" alt="Android">
+    <img src="https://img.shields.io/badge/iOS-3DDC84.svg?style=for-the-badge&logo=iOS&logoColor=white" alt="iOS">
   </p>
   
   <h3>Deployment & Hosting</h3>
