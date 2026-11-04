@@ -52,7 +52,7 @@ philosophy: "AI amplifies human judgment."
 </td>
 <td width="45%" align="center" valign="middle">
 
-<img src="https://github-readme-stats.vercel.app/api?username=DonArtkins&show_icons=true&hide_border=false&border_color=2D1B4E&border_radius=14&bg_color=0D1117&title_color=B388FF&text_color=C9D1D9&icon_color=FF69B4&ring_color=B388FF&count_private=true&include_all_commits=true&rank_icon=github" alt="GitHub stats" width="100%"/>
+<img src="https://ghstats.dev/api/card?username=DonArtkins&show_icons=true&hide_border=false&border_color=2D1B4E&border_radius=14&bg_color=0D1117&title_color=B388FF&text_color=C9D1D9&icon_color=FF69B4&theme=dark" alt="GitHub stats" width="100%"/>
 
 </td>
 </tr>
@@ -94,7 +94,7 @@ philosophy: "AI amplifies human judgment."
 <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=DonArtkins&hide_border=false&border_radius=14&background=0D1117&stroke=2D1B4E&ring=B388FF&fire=FF69B4&currStreakNum=FFFFFF&currStreakLabel=B388FF&sideNums=FFFFFF&sideLabels=C9D1D9&dates=8B949E" alt="Streak" height="170"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DonArtkins&layout=donut&hide_border=false&border_color=2D1B4E&border_radius=14&bg_color=0D1117&title_color=B388FF&text_color=C9D1D9" alt="Top languages" height="170"/>
+<img src="https://ghstats.dev/api/langs?username=DonArtkins&layout=donut&hide_border=false&border_color=2D1B4E&border_radius=14&bg_color=0D1117&title_color=B388FF&text_color=C9D1D9&theme=dark" alt="Top languages" height="170"/>
 
 </div>
 
