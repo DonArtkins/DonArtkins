@@ -1,7 +1,7 @@
 <!-- ═══════════════════════════ HERO ═══════════════════════════ -->
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:8A2BE2,100:FF69B4&height=260&section=header&text=DON%20ARTKINS&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Senior%20Full-Stack%20%26%20Mobile%20Engineer%20%C2%B7%20Team%20Lead&descSize=19&descAlignY=60&descColor=E9D5FF" width="100%" alt="Don Artkins banner"/>
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0D1117,45:8A2BE2,100:FF69B4&height=260&section=header&text=DON%20ARTKINS&fontSize=68&fontColor=ffffff&fontAlignY=38&animation=twinkling&desc=Senior%20Full-Stack%20and%20Mobile%20Engineer%20-%20Team%20Lead&descSize=19&descAlignY=60&descColor=E9D5FF" width="100%" alt="Don Artkins banner"/>
 
 <a href="https://artkins.vercel.app">
   <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=21&duration=2600&pause=900&color=B388FF&center=true&vCenter=true&multiline=false&repeat=true&width=720&height=40&lines=Shipping+AI-native+products+from+Kenya+%F0%9F%87%B0%F0%9F%87%AA;React+%C2%B7+Next.js+%C2%B7+Vue+%C2%B7+Nuxt+%C2%B7+Flutter;Agentic+systems%3A+LangGraph+%C2%B7+RAG+%C2%B7+MCP;Fintech+for+the+M-Pesa+ecosystem;Leading+engineers.+Building+the+tools+we+wish+existed." alt="Typing animation"/>
