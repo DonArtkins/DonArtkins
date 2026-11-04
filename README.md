@@ -103,7 +103,7 @@ philosophy: "AI amplifies human judgment."
 
 <div align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=DonArtkins&custom_title=Contribution%20Activity&bg_color=0D1117&color=B388FF&line=8A2BE2&point=FFFFFF&area=true&area_color=8A2BE2&hide_border=true&radius=14" alt="Activity graph" width="100%"/>
+<img src="https://ghchart.rshah.org/B388FF/DonArtkins" alt="DonArtkins's Contribution Graph" width="100%"/>
 
 </div>
 
@@ -112,7 +112,7 @@ philosophy: "AI amplifies human judgment."
 
 <div align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=DonArtkins&theme=onedark&no-frame=true&no-bg=true&row=1&column=7&margin-w=10" alt="Trophies"/>
+<img src="./images/trophy.svg" alt="GitHub Trophies"/>
 
 </div>
 

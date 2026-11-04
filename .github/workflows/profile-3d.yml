@@ -1,4 +1,4 @@
-name: Generate 3D Contribution Calendar
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -8,7 +8,7 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
-    name: Generate 3D Contribution Graph
+    name: Generate Profile Graphics
     permissions:
       contents: write
     steps:
@@ -19,11 +19,23 @@ jobs:
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
+      
+      - name: Create images directory
+        run: mkdir -p images
+      
+      - name: Generate Trophy SVG
+        uses: Erik-Donath/github-profile-trophy@feature/generate-svg
+        with:
+          username: ${{ github.repository_owner }}
+          token: ${{ secrets.GITHUB_TOKEN }}
+          file: images/trophy.svg
+          theme: onedark
+          max-rows: 1
           
       - name: Commit & Push
         run: |
           git config user.name github-actions
           git config user.email github-actions@github.com
-          git add -A profile-3d-contrib/
-          git commit -m "chore: update 3D contribution calendar" || exit 0
+          git add -A profile-3d-contrib/ images/
+          git commit -m "chore: update profile assets (3D calendar + trophies)" || exit 0
           git push
