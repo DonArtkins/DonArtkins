@@ -1,0 +1,43 @@
+name: 3D Contribution Graph
+
+on:
+  schedule:
+    - cron: "0 0 * * *"  # Daily at midnight
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+permissions:
+  contents: write
+  actions: write
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    name: Generate 3D Profile
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          fetch-depth: 0
+      
+      - name: Generate 3D profile
+        uses: yoshi389111/github-profile-3d-contrib@0.7.1
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: ${{ github.repository_owner }}
+          
+      - name: Commit and push changes
+        run: |
+          git config --local user.name "github-actions[bot]"
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A profile-3d-contrib/
+          if ! git diff --cached --quiet; then
+            git commit -m "chore: update 3D contribution graph [skip ci]"
+            git push
+          else
+            echo "No changes to commit"
+          fi
